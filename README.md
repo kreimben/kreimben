@@ -9,7 +9,7 @@ C, Python, Rust, TypeScript
 
 
 ### My favorite framework is
-FastAPI, Vue.js
+Django, FastAPI, Vue.js, React.js
 
 
 ### I love and use ArchLinux!
@@ -19,7 +19,7 @@ FastAPI, Vue.js
 
 
 ### I use this when I deploy anything.
-Docker, docker-compose
+Docker, docker-compose, Portainer
 
 ### My PGP Public Key is
 [here](./pgp.md)
