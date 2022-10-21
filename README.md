@@ -12,7 +12,7 @@ C, Python, Rust, TypeScript
 Django, FastAPI, Vue.js, React.js
 
 
-### I love and use ArchLinux!
+### I love and use ~~ArchLinux~~! (I use MacBook Air m2 now.)
 
 
 ### This is [`ZeroTwo_bot`](https://discord.com/api/oauth2/authorize?client_id=960047470589657108&permissions=2150631424&scope=applications.commands%20bot) which music bot on Discord App.
