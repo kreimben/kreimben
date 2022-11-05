@@ -1,15 +1,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreimben&count_private=true&show_icons=true&theme=yeblu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kreimben&langs_count=10&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kreimben)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kreimben&layout=compact&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kreimben&theme=juicyfresh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-### I normally use those languages.
+### I am fluent this language.
 C, Python, Rust, TypeScript
 
 
-### My favorite framework is
-Django, FastAPI, Vue.js, React.js
+### I use those framework(library)
+Django, FastAPI, React.js
 
 
 ### I love and use ~~ArchLinux~~! (I use MacBook Air m2 now.)
