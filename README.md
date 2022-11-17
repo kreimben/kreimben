@@ -4,6 +4,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kreimben&theme=juicyfresh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Github Profile Total View](https://komarev.com/ghpvc/?username=kreimben&color=green&style=plastic&label=Github+Profile+Total+View)
+
 ### I am fluent this language.
 C, Python, Rust, TypeScript
 
