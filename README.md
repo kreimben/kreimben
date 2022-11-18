@@ -6,7 +6,7 @@
 
 ![Github Profile Total View](https://komarev.com/ghpvc/?username=kreimben&color=green&style=plastic&label=Github+Profile+Total+View)
 
-### I am fluent this language.
+### I am fluent in these languages.
 C, Python, Rust, TypeScript
 
 
