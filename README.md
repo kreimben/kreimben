@@ -1,7 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreimben&count_private=true&show_icons=true&theme=yeblu)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kreimben&layout=compact&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=kreimben&theme=juicyfresh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Github Profile Total View](https://komarev.com/ghpvc/?username=kreimben&color=green&style=plastic&label=Github+Profile+Total+View)
@@ -25,3 +23,6 @@ Docker, docker-compose, Portainer
 
 ### My PGP Public Key is
 [here](./pgp.md)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kreimben&layout=compact&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
