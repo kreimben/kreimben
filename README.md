@@ -38,4 +38,4 @@ docker-compose, Portainer, Harbor
 [here](./pgp.md)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kreimben&layout=compact&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kreimben&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
