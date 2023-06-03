@@ -5,6 +5,7 @@
 ![Github Profile Total View](https://komarev.com/ghpvc/?username=kreimben&color=green&style=plastic&label=Github+Profile+Total+View)
 
 ### Come to my [blog](https://kreimben.com).
+### Founder and former president of [Team-Discipline](https://github.com/Team-Discipline)
 
 ### I am fluent in these languages.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
