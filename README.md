@@ -1,4 +1,4 @@
-# [Linked In](https://linked.in/jehwan-kim)
+# [My Linkedin Profile](https://linked.in/jehwan-kim)
 
 ### Founder and former president of [Team-Discipline](https://github.com/Team-Discipline)
 
