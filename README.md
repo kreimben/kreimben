@@ -1,10 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreimben&count_private=true&show_icons=true&theme=yeblu)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kreimben&theme=juicyfresh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+# [Linked In](https://linked.in/jehwan-kim)
 
 ### Founder and former president of [Team-Discipline](https://github.com/Team-Discipline)
 
+![Github Profile Total View](https://komarev.com/ghpvc/?username=kreimben&color=green&style=plastic&label=Github+Profile+Total+View)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -23,9 +21,6 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Free Discord Music Bot [`ZeroTwo_bot`](https://discord.com/api/oauth2/authorize?client_id=960047470589657108&permissions=2150631424&scope=applications.commands%20bot)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kreimben&theme=juicyfresh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kreimben&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Github Profile Total View](https://komarev.com/ghpvc/?username=kreimben&color=green&style=plastic&label=Github+Profile+Total+View)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreimben&count_private=true&show_icons=true&theme=yeblu)
