@@ -1,5 +1,3 @@
-# 데이터 처리, 성능 개선, 최적화에 관심이 많은 ML/DL 개발자 김제환입니다.
-
 ## ML/DL
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
